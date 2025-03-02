@@ -13,6 +13,8 @@ private:
    std::string  getnachname() const;
    std::string gettelefonnummer() const;
    std::string  getadresse() const;
+   void anzeigen() const;
+   
 };
 
 #endif
